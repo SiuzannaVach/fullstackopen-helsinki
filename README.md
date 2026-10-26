@@ -7,7 +7,7 @@ The goal of this course is to deep-dive into modern JavaScript-based web develop
 ## 🚀 Learning Roadmap & Progress
 
 - [X] **Part 0:** Fundamentals of Web apps (HTTP, AJAX, Single Page Apps)
-- [ ] **Part 1:** Introduction to React
+- [X] **Part 1:** Introduction to React
 - [ ] **Part 2:** Communicating with server (REST APIs, Axios)
 - [ ] **Part 3:** Programming a server with NodeJS and Express
 - [ ] **Part 4:** Testing Express servers, user administration
